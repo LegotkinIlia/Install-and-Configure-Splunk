@@ -69,6 +69,10 @@ If an error occurs, 2nd command can be used to start Splunk
 
 <img width="1120" height="780" alt="15U" src="https://github.com/user-attachments/assets/16189175-d44a-476b-beb4-0705004684ac" />
 
+
+<img width="1120" height="780" alt="20U" src="https://github.com/user-attachments/assets/7c405f37-8a43-420e-a4cc-0e4a3885a0af" />
+
+
 <img width="1120" height="780" alt="17U" src="https://github.com/user-attachments/assets/cac60122-5a27-491a-ac83-4d51a58289d9" />
 
 
