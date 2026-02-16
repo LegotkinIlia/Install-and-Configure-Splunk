@@ -20,9 +20,8 @@ The objective is install and configure Splunk on Ubuntu machine.
 
   - Select the Linux tab and choose the .deb package.
 
-  - Click "Download Now."
-
-  - On the next page, click the "Download via Command Line (wget)" link to copy the unique command.
+  - Click "Copy wget link"
+    
 
 <img width="1120" height="780" alt="1 Ubuntu" src="https://github.com/user-attachments/assets/e142a1e8-5e36-49b8-9839-0fa2fac6d3ba" />
 
